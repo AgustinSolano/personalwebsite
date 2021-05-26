@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tutorial | Academic</title>
-    <link>/tag/tutorial/</link>
-      <atom:link href="/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://agustinsolano.github.io/personalwebsite/tag/tutorial/</link>
+      <atom:link href="https://agustinsolano.github.io/personalwebsite/tag/tutorial/index.xml" rel="self" type="application/rss+xml" />
     <description>Tutorial</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://agustinsolano.github.io/personalwebsite/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Tutorial</title>
-      <link>/tag/tutorial/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/tag/tutorial/</link>
     </image>
     
     <item>
       <title>Comenzar a usar la Brain Imaging Data Structure (BIDS)</title>
-      <link>/post/bids-notes/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/post/bids-notes/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/post/bids-notes/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/post/bids-notes/</guid>
       <description>&lt;h2 id=&#34;que-es-bids&#34;&gt;Que es BIDS?&lt;/h2&gt;
 &lt;p&gt;BIDS: Brain Imaging Data Structure es una forma de estructurar todos los datos obtenidos en experimentos de Neuroimágenes (MRI, fMRI, EEG, iEEG, conducta, etc)&lt;/p&gt;
 &lt;p&gt;Un ejemplo de como quedaría organizado el arbol de directorios se puede ver en esta imagen:&lt;/p&gt;
@@ -46,10 +46,10 @@
 &lt;figure id=&#34;figure-estructura-de-directorios-acorde-a-bids&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; data-caption=&#34;Estructura de directorios acorde a BIDS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agustinsolano.github.io/personalwebsite/personalwebsite/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; data-caption=&#34;Estructura de directorios acorde a BIDS&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;685&#34; height=&#34;333&#34;&gt;
+  &lt;img data-src=&#34;https://agustinsolano.github.io/personalwebsite/personalwebsite/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;685&#34; height=&#34;333&#34;&gt;
 &lt;/a&gt;
 
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://agustinsolano.github.io/personalwebsite/</link>
+      <atom:link href="https://agustinsolano.github.io/personalwebsite/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://agustinsolano.github.io/personalwebsite/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Academic</title>
-      <link>/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/</link>
     </image>
     
     <item>
       <title>Comenzar a usar la Brain Imaging Data Structure (BIDS)</title>
-      <link>/post/bids-notes/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/post/bids-notes/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/post/bids-notes/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/post/bids-notes/</guid>
       <description>&lt;h2 id=&#34;que-es-bids&#34;&gt;Que es BIDS?&lt;/h2&gt;
 &lt;p&gt;BIDS: Brain Imaging Data Structure es una forma de estructurar todos los datos obtenidos en experimentos de Neuroimágenes (MRI, fMRI, EEG, iEEG, conducta, etc)&lt;/p&gt;
 &lt;p&gt;Un ejemplo de como quedaría organizado el arbol de directorios se puede ver en esta imagen:&lt;/p&gt;
@@ -46,10 +46,10 @@
 &lt;figure id=&#34;figure-estructura-de-directorios-acorde-a-bids&#34;&gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; data-caption=&#34;Estructura de directorios acorde a BIDS&#34;&gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;https://agustinsolano.github.io/personalwebsite/personalwebsite/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; data-caption=&#34;Estructura de directorios acorde a BIDS&#34;&gt;
 
 
-  &lt;img data-src=&#34;/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;685&#34; height=&#34;333&#34;&gt;
+  &lt;img data-src=&#34;https://agustinsolano.github.io/personalwebsite/personalwebsite/post/bids-notes/bids_dir_tree_2_hudd72a5a0ebd8c214e1851287c6999a29_55027_2000x2000_fit_q75_lanczos.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;685&#34; height=&#34;333&#34;&gt;
 &lt;/a&gt;
 
 
@@ -91,17 +91,17 @@
     
     <item>
       <title>Local coupling between sleep spindles and slow oscillations supports the stabilization of motor memories</title>
-      <link>/publication/solano-et-al-2020/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/publication/solano-et-al-2020/</link>
       <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/solano-et-al-2020/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/publication/solano-et-al-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Local coupling between sleep spindles and slow oscillations supports consolidation of visuomotor adaptation</title>
-      <link>/talk/local-coupling-between-sleep-spindles-and-slow-oscillations-supports-consolidation-of-visuomotor-adaptation/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/talk/local-coupling-between-sleep-spindles-and-slow-oscillations-supports-consolidation-of-visuomotor-adaptation/</link>
       <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/local-coupling-between-sleep-spindles-and-slow-oscillations-supports-consolidation-of-visuomotor-adaptation/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/talk/local-coupling-between-sleep-spindles-and-slow-oscillations-supports-consolidation-of-visuomotor-adaptation/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/h0VH2Y2GKho&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>Slides</title>
-      <link>/slides/example/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>/slides/example/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/slides/example/</guid>
       <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -150,9 +150,6 @@ if porridge == &amp;quot;blueberry&amp;quot;:
 &lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
 &lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
 &lt;p&gt;Block math:&lt;/p&gt;
-&lt;p&gt;#$$
-#f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-#$$&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
 &lt;p&gt;Make content appear incrementally&lt;/p&gt;
@@ -241,25 +238,25 @@ Three
     
     <item>
       <title>External Project</title>
-      <link>/project/external-project/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/project/external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/external-project/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/project/external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/project/internal-project/</link>
+      <link>https://agustinsolano.github.io/personalwebsite/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/internal-project/</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/project/internal-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/admin/config.yml</link>
+      <link>https://agustinsolano.github.io/personalwebsite/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/admin/config.yml</guid>
+      <guid>https://agustinsolano.github.io/personalwebsite/admin/config.yml</guid>
       <description></description>
     </item>
     
